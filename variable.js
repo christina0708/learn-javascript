@@ -1,0 +1,14 @@
+var firstname = "jamila";
+var age = 21;
+var isFemale = true;
+var balance = 100.98;
+var dob = new Date (2000, 2, 31);
+var percent = {};
+var empty = undefined;
+console.log (typeof firstname);
+console.log (typeof age);
+console.log (typeof isFemale);
+console.log (typeof balance);
+console.log (typeof dob);
+console.log (typeof percent);
+console.log (typeof empty);
