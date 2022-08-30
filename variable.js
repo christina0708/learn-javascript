@@ -12,3 +12,4 @@ console.log (typeof balance);
 console.log (typeof dob);
 console.log (typeof percent);
 console.log (typeof empty);
+console.log (typeof empty);
